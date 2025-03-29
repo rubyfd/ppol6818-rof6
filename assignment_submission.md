@@ -16,3 +16,6 @@ This is also represented in the histogram below, whereby it can be seen that N i
 Finally, in the table below we see that the confidence interval narrows as N gets larger and that the standard error of the beta estimates reduces significantly as the sample size increases.
 
  ![Table](./table_one.png)
+
+
+## PART 2
