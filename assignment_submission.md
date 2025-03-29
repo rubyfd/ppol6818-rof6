@@ -7,3 +7,7 @@ We see that as N increases the variation in the beta estimates reduces. Moreover
 
 This can also be seen with histogram for the different levels of N
  ![Boxplot](./part_one.png)
+
+
+And in table format
+ ![Boxplot](./table_one.png)
