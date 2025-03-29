@@ -1,6 +1,6 @@
 # ppol6818-rof6
  # My Bio 
- 
+
  ## Hello! 
  Hello! My name is Ruby and I'm from London. I did my undergrad in Edinburgh, Scotland and took a year pre- and post-undergrad to travel. One of my favourite travelling experiences was cycling in the countryside in Southern China near Yangshuo. 
  ![Yangshuo Picture](./Images/one.jpeg)
